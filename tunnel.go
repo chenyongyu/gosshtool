@@ -1,7 +1,7 @@
 package gosshtool
 
 import (
-	"golang.org/x/crypto/ssh"
+	"github.com/golang/crypto/ssh"
 )
 
 type Tunnel struct {

@@ -2,7 +2,7 @@ package gosshtool
 
 import (
 	"bytes"
-	"golang.org/x/crypto/ssh"
+	"github.com/golang/crypto/ssh"
 	"log"
 	"net"
 	"strings"

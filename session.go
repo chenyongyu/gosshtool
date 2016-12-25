@@ -3,7 +3,7 @@ package gosshtool
 import (
 	"bytes"
 	"errors"
-	"golang.org/x/crypto/ssh"
+	"github.com/golang/crypto/ssh"
 	"io"
 	"log"
 	"time"
